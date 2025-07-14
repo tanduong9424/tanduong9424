@@ -1,3 +1,4 @@
+<img src=https://octodex.github.com//images/nyantocat.gif alt=celebrate width=300 align=right>
 - 👋 Hi, I’m Huỳnh Tấn Dương
 - 🌱 I’m currently learning: Networking
 - 📫 How to reach me: dhuynh529@gmail.com
