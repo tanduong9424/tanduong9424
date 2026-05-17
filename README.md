@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/tanduong9424/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:huynhtanduongit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.youtube.com/@ht.duong9424" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
   </a>
@@ -19,6 +16,7 @@
 ---
 
 ### 👨‍💻 About Me
+- 📩Email: huynhtanduongit@gmail.com
 - 🎓 Final-year **Computer Engineering** student at Saigon University (GPA: 3.39/4.0).
 - 🎯 My focus areas: **Security Operations (SOC), SIEM, Network Infrastructure, and System Administration**.
 - 🛠️ Currently building enterprise-level homelabs to simulate real-world attacks and defenses.
