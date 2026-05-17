@@ -34,10 +34,9 @@
 ![Suricata](https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=flat-square)
 
 
-### 🏆 Featured Lab Projects
-
-*   🕵️‍♂️ **[Automated Brute-force IDPS with Splunk SIEM](https://github.com/tanduong9424/)**: Built an automated detection and prevention system using Fail2ban, IPTables, and Splunk to monitor authentication logs in real-time.
-*   💾 **[Enterprise SAN Storage with TrueNAS](https://github.com/tanduong9424/SAN_Storage)**: Designed a highly available iSCSI SAN Storage architecture using OpenZFS and Replication for disaster recovery.
-*   🔥 **[pfSense Firewall & Suricata IDS/IPS](https://github.com/tanduong9424/Firewall)**: Deployed perimeter security with DMZ routing, HAProxy load balancing, and network intrusion detection.
-*   🏢 **[Active Directory - Roaming & Mandatory Profiles](https://github.com/tanduong9424/)**: Centralized user environment management and NTFS permission controls on Windows Server.
-
+**System & Infrastructure**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
