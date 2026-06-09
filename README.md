@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Huỳnh Tấn Dương 👋</h1>
-<h3 align="center">System Engineer & Cybersecurity Enthusiast | SOC Intern Applicant</h3>
+<h3 align="center">System Engineer Intern</h3>
 
 <p align="center">
   <a href="https://tanduong9424.github.io" target="_blank">
