@@ -18,9 +18,7 @@
 ### 👨‍💻 About Me
 - 📩Email: huynhtanduongit@gmail.com
 - 🎓 Final-year **Computer Engineering** student at Saigon University (GPA: 3.39/4.0).
-- 🎯 My focus areas: **Security Operations (SOC), SIEM, Network Infrastructure, and System Administration**.
-- 🛠️ Currently building enterprise-level homelabs to simulate real-world attacks and defenses.
-- 🚀 **Looking for:** SOC Analyst Intern / System Engineer Intern opportunities.
+- 🎯 My focus areas: **Security, Network Infrastructure, System Administration**.
 
 ---
 
