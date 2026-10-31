@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Huỳnh Tấn Dương 👋</h1>
-<h3 align="center">System Engineer Intern</h3>
+<h3 align="center">Network Engineer</h3>
 
 <p align="center">
   <a href="https://tanduong9424.github.io" target="_blank">
@@ -17,8 +17,8 @@
 
 ### 👨‍💻 About Me
 - 📩Email: huynhtanduongit@gmail.com
-- 🎓 Final-year **Computer Engineering** student at Saigon University (GPA: 3.39/4.0).
-- 🎯 My focus areas: **Security, Network Infrastructure, System Administration**.
+- 🎓 Final-year **Computer Engineering** student at Saigon University (GPA: 3.42/4.0).
+- 🎯 My focus areas: **Network Infrastructure, System Administration, Security**.
 
 ---
 
